@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/olaf-dancing-on-ice-gif-12661949170538137057" width="400" alt="Coding GIF">
+<img align="right" alt="Olaf Dancing on Ice" src="https://media.tenor.com/images/12661949170538137057/gif.gif" width="200"/>
 Hi, I’m **Shidqi Naufal**!  <br>I’m passionate about **software development, AI, and robotics**, and I love exploring how technology can solve real-world problems.  <br><br>🔹 Currently learning and building with:  <br>- 🚀 Web Development (Next.js, React, Express.js)  <br>- 🤖 Robotics & Computer Vision (C++, OpenCV, ROS2, OpenVINO)  <br>- 📊 Data Science & Machine Learning  <br><br>🔹 Some things about me:  <br>- 🌱 Always curious to learn new technologies  <br>- ⚡ Interested in Cybersecurity and Embedded Systems  <br>- 🎯 Love working on project-based learning and research
 
 
